@@ -18,7 +18,7 @@ const ProjectCard = ({index, name, description, tags, image, source_code_link}) 
           <img src={image} alt={name} className='w-full h-full object-cover rounded-2xl'/>
           <div className="absolute inset-0 flex justify-end m-3 card-img_hover">
             <div 
-            onClick={()=> window.open(source_code_ling, "_blank")}
+            onClick={()=> window.open(source_code_link, "_blank")}
             className='black-gradient w-10 h-10 rounded-full flex justify-center items-center cursor-pointer'
             >
               <img
@@ -35,7 +35,7 @@ const ProjectCard = ({index, name, description, tags, image, source_code_link}) 
         </div>
         <div className='mt-4 flex flex-wrap gap-2'>
           {tags.map((tag) => (
-            <p hey={tag.name} className={`text-[14px] ${tag.color}`}> 
+            <p key={tag.name} className={`text-[14px] ${tag.color}`}> 
               #{tag.name}
             </p>
           ))}
