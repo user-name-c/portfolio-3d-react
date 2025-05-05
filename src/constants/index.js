@@ -6,6 +6,9 @@ import {
     web,
     javascript,
     typescript,
+    java,
+    spring,
+    linux,
     html,
     css,
     reactjs,
@@ -74,16 +77,16 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
+      name: "Java",
+      icon: java,
     },
     {
       name: "React JS",
       icon: reactjs,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
+      name: "Spring Boot",
+      icon: spring,
     },
     {
       name: "Tailwind CSS",
@@ -112,6 +115,10 @@ import {
     {
       name: "docker",
       icon: docker,
+    },
+    {
+      name: "linux",
+      icon: linux,
     },
   ];
   
