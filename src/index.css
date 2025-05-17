@@ -126,6 +126,14 @@
   transform: translateZ(0);
 }
 
+/* Add this to your global CSS or a relevant CSS file */
+canvas {
+  background: transparent !important;
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
 @keyframes mulShdSpin {
   0%,
   100% {
