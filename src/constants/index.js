@@ -164,15 +164,16 @@ import {
     },
     {
       title: "Tech support",
-      company_name: "Meta",
+      company_name: "Wix",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Apr 2025 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
+        "Set online bussiness presence for clients using Wix platform.",
+        "Providing technical support and troubleshooting assistance to clients using the Wix platform.",
         "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
         "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Participating in code reviews and providing constructive feedback to users.",
       ],
     },
   ];
@@ -180,7 +181,7 @@ import {
   const testimonials = [
     {
       testimonial:
-        "I thought it was impossible to make a website as beautiful as our product, but Rick proved me wrong.",
+        "I thought it was impossible to make a website as beautiful as our product, but Ivan proved me wrong.",
       name: "Sara Lee",
       designation: "CFO",
       company: "Acme Co",
@@ -188,7 +189,7 @@ import {
     },
     {
       testimonial:
-        "I've never met a web developer who truly cares about their clients' success like Rick does.",
+        "I've never met a web developer who truly cares about their clients' success like Ivan does.",
       name: "Chris Brown",
       designation: "COO",
       company: "DEF Corp",
@@ -196,7 +197,7 @@ import {
     },
     {
       testimonial:
-        "After Rick optimized our website, our traffic increased by 50%. We can't thank them enough!",
+        "After Ivan optimized our website, our traffic increased by 50%. We can't thank them enough!",
       name: "Lisa Wang",
       designation: "CTO",
       company: "456 Enterprises",
@@ -206,16 +207,16 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "Find Movies",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "Web-based platform that allows users to search, book, and manage different movies, providing a convenient and efficient solution for transportation needs.",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "springboot",
           color: "green-text-gradient",
         },
         {
@@ -224,7 +225,7 @@ import {
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/user-name-c/moviex-site",
     },
     {
       name: "Job IT",
