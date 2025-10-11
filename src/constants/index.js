@@ -225,7 +225,7 @@ import {
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
+      image: moviexsite,
       source_code_link: "https://github.com/user-name-c/moviex-site",
     },
     {
