@@ -2,7 +2,7 @@
 
 # 📁 **README.md — 3D Portfolio with React & Three.js**
 
-````md
+````
 # 🌐 3D Developer Portfolio  
 ### Built with React, Vite, Three.js, and @react-three/fiber
 
