@@ -226,6 +226,7 @@ import {
         },
       ],
       image: moviexsite,
+      project_link: "https://moviex-site.netlify.app/",
       source_code_link: "https://github.com/user-name-c/moviex-site",
     },
     {
@@ -247,6 +248,7 @@ import {
         },
       ],
       image: jobit,
+      project_link: "https://user-name-c.github.io/challengeEncriptadorONE",
       source_code_link: "https://github.com/",
     },
     {

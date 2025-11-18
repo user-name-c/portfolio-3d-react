@@ -8,7 +8,7 @@ import {projects} from '../constants';
 import {fadeIn, textVariant} from '../utils';
 
 // aqui se renderizan las cartas
-const ProjectCard = ({index, name, description, tags, image, source_code_link}) =>{
+const ProjectCard = ({index, name, description, tags, image, source_code_link, project_link}) =>{
   return(
     <motion.div variants={fadeIn("up", "spring", index * 0.5, 0.75)}>
       <Tilt
@@ -30,7 +30,10 @@ const ProjectCard = ({index, name, description, tags, image, source_code_link}) 
           </div>
         </div>
         <div className="mt-5">
-          <h3 className="text-white font-bold text-[24px]">{name}</h3>
+          <div onClick={()=> window.open(project_link, "_blank")}
+            className='cursor-pointer'>
+            <h3 className="text-white font-bold text-[24px]">{name}</h3>
+          </div>
           <p className='mt-2 text-secondary text-[14px]'>{description}</p>
         </div>
         <div className='mt-4 flex flex-wrap gap-2'>
