@@ -20,6 +20,7 @@ import {
     figma,
     docker,
     meta,
+    wix,
     starbucks,
     tesla,
     shopify,
@@ -165,10 +166,10 @@ import {
     // },
     {
       title: "Tech support",
-      company_name: "Wix",
-      icon: meta,
+      company_name: "Wix (via Concentrix)",
+      icon: wix,
       iconBg: "#E6DEDD",
-      date: "Apr 2025 - Present",
+      date: "Apr 2025 - Sep 2025",
       points: [
         "Set online bussiness presence for clients using Wix platform.",
         "Providing technical support and troubleshooting assistance to clients using the Wix platform.",

@@ -28,6 +28,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
+import wix from "./company/wix_logo_icon_249169.svg";
 
 import carrent from "./carrent.png";
 import moviexsite from "./moviexsite.png";
@@ -67,4 +68,5 @@ export {
   moviexsite,  
   jobit,
   tripguide,
+  wix,
 };
