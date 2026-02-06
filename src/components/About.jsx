@@ -42,7 +42,9 @@ const About = () => {
         variants={fadeIn("","", 0.1, 1)}
         className='mt-4 text-secondary text-[17px] max-w-3xl leading-[25px]'
       >
-        I am a Geological Engineer with a strong foundation in object-oriented programming (especially in Java) and data analysis. Passionate about technology, software development, and creating innovative, user-centered digital experiences. I have experience in tech support and customer service in both English and Spanish, which has helped me develop strong communication skills and the ability to work effectively in multicultural and remote environments.
+        I am a Geological Engineer transitioning into software development, with a strong foundation in object-oriented programming (especially Java) and data analysis. I’m passionate about technology and building user-centered digital solutions.
+
+My background in bilingual technical support and customer service has strengthened my communication skills, problem-solving mindset, and ability to work effectively in remote and multicultural environments. I’m currently seeking opportunities where I can continue growing as a software or data-focused professional.
       </motion.p>
 
       <div className='mt-20 flex flex-wrap gap-10'>
