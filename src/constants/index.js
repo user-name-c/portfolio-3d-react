@@ -27,6 +27,7 @@ import {
     carrent,
     moviexsite,
     jobit,
+    encriptador,
     tripguide,
     threejs,
   } from "../assets";
@@ -231,28 +232,28 @@ import {
       project_link: "https://moviex-site.netlify.app/",
       source_code_link: "https://github.com/user-name-c/moviex-site",
     },
-    // {
-    //   name: "Job IT",
-    //   description:
-    //     "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
-    //   tags: [
-    //     {
-    //       name: "react",
-    //       color: "blue-text-gradient",
-    //     },
-    //     {
-    //       name: "restapi",
-    //       color: "green-text-gradient",
-    //     },
-    //     {
-    //       name: "scss",
-    //       color: "pink-text-gradient",
-    //     },
-    //   ],
-    //   image: jobit,
-    //   project_link: "https://user-name-c.github.io/challengeEncriptadorONE",
-    //   source_code_link: "https://github.com/",
-    // },
+    {
+      name: "Encriptador ONE",
+      description:
+        "A web application that allows users to encrypt and decrypt messages using custom substitution rules. Designed to provide a secure and unique way to hide and retrieve text.",
+      tags: [
+        {
+          name: "javascript",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "css",
+          color: "green-text-gradient",
+        },
+        {
+          name: "html",
+          color: "pink-text-gradient",
+        },
+      ],
+      image: encriptador,
+      project_link: "https://user-name-c.github.io/challengeEncriptadorONE/",
+      source_code_link: "https://github.com/user-name-c/challengeEncriptadorONE?tab=readme-ov-file",
+    },
     // {
     //   name: "Trip Guide",
     //   description:

@@ -24,6 +24,7 @@ import java from "./tech/java.png";
 import spring from "./tech/spring.png";
 import linux from "./tech/linux-tux.png";
 
+
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
@@ -34,6 +35,7 @@ import carrent from "./carrent.png";
 import moviexsite from "./moviexsite.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
+import encriptador from "./encriptador.png";
 
 export {
   logo,
@@ -69,4 +71,5 @@ export {
   jobit,
   tripguide,
   wix,
+  encriptador,
 };
