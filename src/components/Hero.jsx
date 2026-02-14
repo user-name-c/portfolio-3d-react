@@ -31,11 +31,11 @@ const Hero = () => {
           </p>
 
           {/* --- UNDER CONSTRUCTION TAG --- */}
-      <div className="mt-5 p-3 border border-[#915eff] bg-[#915eff]/10 rounded-lg inline-block">
+      {/* <div className="mt-5 p-3 border border-[#915eff] bg-[#915eff]/10 rounded-lg inline-block">
         <p className="text-sm sm:text-base text-white opacity-80 italic">
           ⚠️ <span className="font-bold text-[#915eff]">Note:</span> Currently renovating! Replacing tutorial projects with my personal work.
         </p>
-      </div>
+      </div> */}
       {/* ------------------------------ */}
 
         </div>
