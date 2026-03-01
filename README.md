@@ -144,7 +144,7 @@ Then connect the repo to Vercel.
 If you want to reach me or see more of my work:
 
 * GitHub: [https://github.com/user-name-c](https://github.com/user-name-c)
-* Email: [your.email@example.com](mailto:your.email@example.com)
+* Email: [ing.ivan.napoles@gmail.com](mailto:ing.ivan.napoles@gmail.com)
 
 ---
 
